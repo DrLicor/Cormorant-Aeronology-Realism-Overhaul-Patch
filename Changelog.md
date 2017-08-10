@@ -1,6 +1,16 @@
 #Changelog
---------------------------------------------------------------
 
+--------------------------------------------------------------
+V1.1 (Alpha)
+- Adjusted the OMS engines' ISP.
+- Serveral fixes in the patch like wrong part-name.
+- Removed fuel in the shuttle body A, B and C. (this time really)
+- Removed monoprop from the Buranbutt
+- Added weight to the nosecone to balance the CoM
+- Solved a typo in the payload.cfg, forgot one '}'    -.-
+
+
+--------------------------------------------------------------
 V1.0 (Alpha)
 
 Engines:
